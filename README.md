@@ -9,18 +9,18 @@
 ### 触れること
 
 - config
-- PureなTypeScriptでのユニットテスト
+- Pure な TypeScript でのユニットテスト
   - mock
   - timer
   - 非同期処理
-- custom hooksを使ったテスト
+- custom hooks を使ったテスト
   - render hooks
   - rerender
 - スナップショットテスト
 
 ### 技術スタック
 
-React / TypeScriptをベースとしたプロダクトを想定。
+React / TypeScript をベースとしたプロダクトを想定。
 
 - Jest
 - React Testing Library(hooks)
